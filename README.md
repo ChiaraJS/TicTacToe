@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"><i>Classic Tic Tac Toe Game on JavaScript</i></p>
-<p align="center"><a href="https://chiarajs.github.io"><i><b>Demo</b></i></a></p>
+<p align="center"><a href="https://chiarajs.github.io/ChiaraJS/src/html/ticTacToe.html"><i><b>Demo</b></i></a></p>
 
 <hr>
 
